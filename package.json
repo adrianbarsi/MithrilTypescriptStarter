@@ -1,0 +1,21 @@
+{
+  "name": "mithril-typescript-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mithril": "^2.0.5",
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mithril": "^2.0.4",
+    "mithril-stream": "^2.0.0"
+  }
+}
